@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+  }
+  h1 {
+    text-align: center;
+  }
+  .desc-section {
+    background-color: #000000;
+  }
+  .descripcion {
+    display: inline-block;
+    width: 39%;
+    margin: 50px 125px;
+    text-align: left;
+  }
+  .iguana-1 {
+    width: 29%;
+    vertical-align: middle;
+    white-space: nowrap;
+    margin-top: -166px;
+  }
+  .icons-section {
+    margin: 0;
+    background-color: #1E1A13;
+    padding: 50px 0;
+  }
+  .izquierda {
+    text-align: center;
+    display: inline-block;
+    padding-left: 377px;
+    padding-right: 130px
+  }
+  .centro {
+    text-align: center;
+    display: inline-block;
+    padding-right: 130px;
+  }
+  .derecha {
+    text-align: center;
+    display: inline-block;
+  }
+  .imagenes{
+  padding: 45px;
+  }
+  .imagenes img {
+    width: 30%;
+  }
+  .iguana-2 {
+    padding-left: 34px;
+    padding-right: 10px;
+  }
+  .iguana-3 {
+    padding-right: 10px;
+  }
+  footer {
+    background-color: #1E1A13;
+    padding: 30px;
+    text-align: center;
+  }
+  
